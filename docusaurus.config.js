@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "KelechiKizito", // Usually your GitHub org/user name.
-  projectName: "WritingPortfolioSite", // Usually your repo name.
+  projectName: "my-portfolio-website", // Usually your repo name.
 
   onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "ignore",
@@ -45,6 +45,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           routeBasePath: "/", // this turn off the intro page
           editUrl: "https://github.com/bennykillua/Sitetwo/tree/main/",
+          // editUrl: "https://github.com/Kelechikizito/my-portfolio-website"
         },
         blog: false, // remove this link when you want the blog
         // uncomment the below part when you want the blog part again
