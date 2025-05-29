@@ -44,8 +44,8 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           routeBasePath: "/", // this turn off the intro page
-          editUrl: "https://github.com/bennykillua/Sitetwo/tree/main/",
-          // editUrl: "https://github.com/Kelechikizito/my-portfolio-website"
+          editUrl:
+            "https://github.com/Kelechikizito/my-portfolio-website/tree/master/",
         },
         blog: false, // remove this link when you want the blog
         // uncomment the below part when you want the blog part again
