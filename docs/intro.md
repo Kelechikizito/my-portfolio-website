@@ -19,4 +19,4 @@ When I’m not writing documentation or building software, I enjoy boxing, worki
 
 > While you’re here, feel free to check out:
 >
-> - [Getting Started in Technical Writing on GitHub](https://github.com/Bennykillua/Getting-started-in-Technical-Writing), A curated resource to help you begin your journey in technical writing.
+> - [My GitHub](https://github.com/Kelechikizito),  A curated collection of my projects, code samples, and resources.

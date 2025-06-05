@@ -9,7 +9,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "My Site",
-  tagline: "Dinosaurs are cool",
+  tagline: "Kelechi Kizito",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -72,7 +72,7 @@ const config = {
         title: "Kelechi Kizito",
         logo: {
           alt: "Logo",
-          src: "img/toji.png",
+          src: "img/logo.svg",
         },
         items: [
           {
@@ -127,6 +127,10 @@ const config = {
               {
                 label: "Twitter",
                 href: "https://twitter.com/KelechiiKizito",
+              },
+              {
+                label: "My Resume/CV",
+                href: "https://docs.google.com/document/d/1PPHR8sTtEy3UO5ih4dEZeBEO0TD1hLgUax2_YThKapg/edit?usp=sharing",
               },
             ],
           },

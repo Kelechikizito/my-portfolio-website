@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Writing
 
-This page showcases some of the articles, quick starts, and glossaries I’ve written or edited. ✍🏾
+This page showcases some of the articles I’ve written or edited. ✍🏾
 
 
 ## Articles
@@ -15,26 +15,15 @@ This page showcases some of the articles, quick starts, and glossaries I’ve wr
 - MagicPod: [Cloud App Testing: 6 Advanced Load Simulation Techniques to Boost Performance](https://blog.magicpod.com/cloud-app-testing-6-advanced-load-simulation-techniques-to-boost-performance)
 - AccelData: [Data Lifecycle: Definition and Best Practices](https://www.acceldata.io/blog/data-lifecycle)
 - Workato: [An Introduction to Cloud Logistics](https://www.workato.com/the-connector/cloud-logistics/)
-- LinearB: [How To Easily Create A Burndown Chart For Your Team In Excel](https://linearb.io/blog/burndown-chart-excel/)
-- LinearB: [The What, Why and How of a Sprint Burndown Chart](https://linearb.io/blog/sprint-burndown-chart/)
 
-## Articles (As an editor)
+## Articles For Third-Party Publications
 
-- Stackify: [What Is SDLC? Understand the Software Development Life Cycle](https://stackify.com/what-is-sdlc/)
-- Wrangle: [21 Slack Tips and Best Practices You Haven't Seen Before](https://www.wrangle.io/post/20-slack-tips-and-best-practices-you-havent-seen-before)
+- In Plain English Publication: [Achieving Scalability in Node.js Applications: Proven Methods and Tools](https://javascript.plainenglish.io/achieving-scalability-in-node-js-applications-proven-methods-and-tools-fac82643545b)
+- In Plain English: [JavaScript Unit Testing](https://medium.com/javascript-in-plain-english/javascript-unit-testing-542d01ad3a84)
 
 
+## My Personal Blog
 
-## Glossaries and FAQs
-
-- SolarWinds [Remote Desktop Services](https://www.solarwinds.com/resources/it-glossary/remote-desktop-services)
-- InfluxData: [Extract Load Transform: The Basics, Explained](https://www.influxdata.com/glossary/extract-load-transform-elt/)
-
-
-## Docs and QuickStarts
-
-- docToolChain: [Building Docs with docToolchain: A Quickstart Guide](https://doctoolchain.org/tutorials/01_Tutorials/010_Quickstart.html)
-
-## Writing Contests
-
-- Top 5 open-source writers in [Hashnode 2021 October’s open-source symposium](https://townhall.hashnode.com/oss-grant-badge-winners)
+- My Hashnode Blog [Hashnode](https://kaykay7.hashnode.dev/)
+- My Medium Blog [Medium](https://medium.com/@kaylaychi77)
+- My DevTo Blog [DevTo](https://dev.to/kelechikizito)
