@@ -15,6 +15,7 @@ This page showcases some of the articles I’ve written or edited. ✍🏾
 - MagicPod: [Cloud App Testing: 6 Advanced Load Simulation Techniques to Boost Performance](https://blog.magicpod.com/cloud-app-testing-6-advanced-load-simulation-techniques-to-boost-performance)
 - AccelData: [Data Lifecycle: Definition and Best Practices](https://www.acceldata.io/blog/data-lifecycle)
 - Workato: [An Introduction to Cloud Logistics](https://www.workato.com/the-connector/cloud-logistics/)
+- BlinkOps: [Security Automation Best Practices: A Guide](https://www.blinkops.com/blog/security-automation-best-practices-a-guide)
 
 ## Articles For Third-Party Publications
 
